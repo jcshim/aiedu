@@ -1,2 +1,1 @@
-# aiedu
-AI Education
+[colab](https://colab.research.google.com/) 
